@@ -3,10 +3,10 @@ import Link from 'next/link'
 
 export default () => (
   <div>
-    <p>Page hello</p>
+    <p>Page index</p>
     <ul>
-      <li><Link href='/' as='/'><a>index</a></Link></li>
       <li><Link href='/button' as='/button'><a>button</a></Link></li>
+      <li><Link href='/hello' as='/hello'><a>hello</a></Link></li>
     </ul>
   </div>
 )

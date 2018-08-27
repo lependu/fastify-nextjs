@@ -5,6 +5,8 @@ const fastify = require('fastify')()
 fastify
   .register(require('./index'))
   .after(() => {
+    fastify.next('/')
+    fastify.next('/button')
     fastify.next('/hello')
   })
 
