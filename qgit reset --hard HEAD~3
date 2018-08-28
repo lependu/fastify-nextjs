@@ -1,0 +1,72 @@
+* [33ma3390d8[m[33m ([1;36mHEAD[m[33m, [1;32mexample-next6[m[33m)[m Add some example
+* [33m1d9c1df[m[33m ([1;32mnext6[m[33m)[m Implements next asset handling
+* [33m9b1fe78[m[33m ([1;31morigin/next6[m[33m)[m Remove blank line from example.js
+* [33m21d818a[m Updates dependencies
+* [33m1e1ee2b[m Add more npm scripts
+* [33m86ea84c[m Add next asset routes to example
+* [33mc682d80[m Remove node 9 from travis.yml
+* [33m6c10a9f[m Corrected typo
+* [33m6f04c4d[m Hello node 10
+* [33md4caaeb[m Updated dependencies
+* [33ma837c62[m[33m ([1;33mtag: v2.0.1[m[33m, [1;31mupstream/master[m[33m, [1;31morigin/master[m[33m, [1;31morigin/HEAD[m[33m, [1;32mmaster[m[33m)[m Bumped v2.0.1
+*   [33m68fb94e[m Merge pull request #31 from fastify/update-latest-fastify
+[32m|[m[33m\[m  
+[32m|[m * [33m07643a6[m Updated README.md
+[32m|[m * [33m69d6eac[m Update test
+[32m|[m * [33m03b4b1a[m Updated dependencies
+[32m|[m[32m/[m  
+* [33m441b2ce[m[33m ([1;33mtag: v2.0.0[m[33m)[m Bumped v2.0.0
+*   [33mef4fb53[m Merge pull request #23 from Ethan-Arrowood/update
+[34m|[m[35m\[m  
+[34m|[m * [33m5335f45[m bye bye node 4 hello node 9
+[34m|[m * [33m1eb0b02[m update deps
+[34m|[m[34m/[m  
+*   [33mdce2859[m Merge pull request #19 from lependu/update-dependencies
+[36m|[m[1;31m\[m  
+[36m|[m * [33m459d835[m[33m ([1;31morigin/update-dependencies[m[33m)[m Updates fastify, plugin-meta
+[36m|[m[36m/[m  
+*   [33ma9e59c1[m Merge pull request #17 from fastify/greenkeeper/fastify-plugin-0.2.1
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m16fede8[m fix(package): update fastify-plugin to version 0.2.1
+[1;32m|[m[1;32m/[m  
+*   [33m6d26c48[m Merge pull request #16 from fastify/greenkeeper/fastify-plugin-0.2.0
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33mc73d348[m Support for fastify-plugin v0.2.0
+[1;34m|[m * [33m41a9610[m Bumped dependencies
+[1;34m|[m * [33ma017a04[m fix(package): update fastify-plugin to version 0.2.0
+[1;34m|[m[1;34m/[m  
+* [33m42f4695[m[33m ([1;33mtag: v1.0.0[m[33m)[m Bumped v1.0.0
+*   [33m0fb834c[m Merge pull request #13 from fastify/update-deps
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m24b406a[m Updated travis
+[1;36m|[m * [33m2e13e5e[m Updated dependencies
+[1;36m|[m[1;36m/[m  
+*   [33m9bd61cf[m Merge pull request #5 from fastify/greenkeeper/fastify-0.26.0
+[32m|[m[33m\[m  
+[32m|[m * [33m3014672[m chore(package): update fastify to version 0.26.0
+* [33m|[m   [33m853894b[m Merge pull request #6 from fastify/greenkeeper/next-3.0.3
+[33m|[m[35m\[m [33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+[33m|[m * [33m629ad9b[m fix(package): update next to version 3.0.3
+[33m|[m[33m/[m  
+* [33m610a4cb[m Bumped v0.1.1
+*   [33mc02754f[m Merge pull request #4 from fastify/fix-schema
+[36m|[m[1;31m\[m  
+[36m|[m * [33mcea1e27[m Updated route declaration
+[36m|[m * [33m26741ee[m Updated dependencies
+[36m|[m[36m/[m  
+* [33mf8965e9[m Updated docs
+*   [33me514db4[m Merge pull request #1 from fastify/greenkeeper/initial
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mac8d5b2[m Updated README.md
+[1;32m|[m * [33m4bcaa52[m docs(readme): add Greenkeeper badge
+* [1;33m|[m [33m432acd5[m Updated README.md
+[1;33m|[m[1;33m/[m  
+* [33m24602df[m First code commit
+* [33m165d401[m Added docs
+* [33m86dd231[m Added test
+* [33m31423ae[m First code commit
+* [33m73257af[m Added travis
+* [33mff94799[m Updated .gitignore
+* [33m0dfe685[m Initial commit
